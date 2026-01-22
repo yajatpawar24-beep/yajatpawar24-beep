@@ -1,90 +1,38 @@
-👋 Hi there, I'm Yajat Pawar
+👋 Hi, I’m Yajat Pawar
 
-🚀 AI Workflow Engineer Intern @ Zipy
-🏗 Founder @ AInovate Solutions
+AI Workflow Engineer Intern @ Zipy
+Founder @ AInovate Solutions
 
-I’m passionate about building LLM-powered systems and intelligent automation pipelines that solve real-world problems. With 2+ years of hands-on experience in AI engineering, I specialize in orchestrating scalable AI workflows and developing production-ready RAG systems.
+AI engineer focused on LLM-powered systems, RAG architectures, and workflow automation.
+2+ years of hands-on experience building production-ready AI solutions that scale and deliver measurable business impact.
 
-💡 What I Do
-🤖 AI Workflow Automation
+Core Expertise
 
-Built end-to-end automation pipelines reducing manual operations by 75%
+AI Workflow Automation → Reduced manual operations by 75%
 
-Automated workflows across engineering, sales, and support teams
+LLM & RAG Systems → Chatbots serving 500+ queries/week with ~89% resolution
 
-🧠 LLM Engineering
+Enterprise AI Delivery → End-to-end solutions from ideation to production
 
-Developed transformer-based chatbots and RAG systems
+Tech Stack 
 
-Serving 500+ queries weekly with ~89% resolution rate
+LLM/RAG: LangChain, LangGraph, LlamaIndex, MCP, Pinecone, ChromaDB
 
-🏢 Enterprise AI Solutions
+ML/DL: PyTorch, TensorFlow, Scikit-learn, XGBoost
 
-Delivered full-cycle AI solutions from ideation to production
+Automation: n8n, Zapier, Voiceflow, FastAPI
 
-Designed and deployed enterprise-grade AI systems
+Cloud/DevOps: AWS (SageMaker, Lambda, S3), Azure, Docker, CI/CD
 
-🛠️ Tech Stack
-🔹 LLM & RAG Engineering
+Data: Python, SQL, Pandas, NumPy
 
-LangChain · LangGraph · LlamaIndex
+Experience Highlights
 
-Retrieval-Augmented Generation (RAG)
+Zipy: AI workflow orchestration, MCP integrations, optimized retrieval systems
 
-Vector Databases: Pinecone, ChromaDB
+AInovate Solutions: Founded AI consultancy, deployed chatbot with 95%+ intent accuracy, handling 500+ weekly queries
 
-Prompt Engineering · Fine-tuning · MCP (Model Context Protocol)
-
-🔹 ML / DL Frameworks
-
-PyTorch · TensorFlow
-
-Scikit-learn · XGBoost
-
-Transformer Models
-
-🔹 Automation & Workflow
-
-n8n · Zapier · Voiceflow
-
-FastAPI
-
-🔹 Cloud & DevOps
-
-AWS: SageMaker, Lambda, S3, EC2
-
-Azure: ML Studio, Cognitive Services
-
-Docker · CI/CD
-
-🔹 Data & Analytics
-
-Python · SQL
-
-Pandas · NumPy
-
-Matplotlib · Seaborn
-
-🧳 Experience Highlights
-🔹 Zipy
-
-Automated business processes using AI workflow orchestration
-
-Integrated MCP servers with internal engineering tools
-
-Optimized retrieval systems using LangChain and LlamaIndex
-
-🔹 AInovate Solutions
-
-Founded an AI consulting agency
-
-Deployed Sakhi Chatbot with 95%+ intent classification accuracy
-
-Built intelligent website chatbots handling 500+ queries weekly
-
-📫 Let’s Connect
-
-If you’re interested in AI automation, LLM systems, or RAG architectures, feel free to connect or explore my projects below 👇
+💡 Open to LLM/ML Engineering internships and collaborations on cutting-edge AI projects
 <!--
 **yajatpawar24-beep/yajatpawar24-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
